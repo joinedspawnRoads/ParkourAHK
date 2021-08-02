@@ -27,4 +27,7 @@ Q: How can I change the toggle key?
 Q: I changed the toggle key. Why won't it work?
 - A: Either you didn't save it or don't realize that editing one script doesn't apply it to the rest. You must change the scripts individually.
 
+Q: It works everywhere except for Roblox. How do I fix this?
+- A: Try running it as Administrator (not Roblox).
+
 ### @->-->--
