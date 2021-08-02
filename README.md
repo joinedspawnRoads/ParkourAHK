@@ -25,6 +25,6 @@ Q: How can I change the toggle key?
 - A: I suggest looking into AutoHotkey for that; it gets a little complicated.
 
 Q: I changed the toggle key. Why won't it work?
-- A: Either you didn't save it or you don't realize that editing one script doesn't apply it to the rest. You must change the scripts individually.
+- A: Either you didn't save it or don't realize that editing one script doesn't apply it to the rest. You must change the scripts individually.
 
 ### @->-->--
