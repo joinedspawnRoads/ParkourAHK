@@ -12,6 +12,7 @@ After you've downloaded & installed it, extract the [latest release](https://git
 1. This program is for Windows only.
 2. After running any file, you can press "/" to toggle it.
 3. To turn it off, you can right click on the icon in your taskbar (check hidden icons if it isn't there, and if you still can't find it, kill AutoHotkey in Task Manager).
+4. The chat is not immune to the scripts, so just know that you might en up tlking like thi.
 
 ## FAQ
 
