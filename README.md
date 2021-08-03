@@ -15,7 +15,7 @@ After you've downloaded & installed it, extract the [latest release](https://git
 
 ## FAQ
 
-Q: Will I get banned for this?
+Q: Can this get me banned?
 - A: [Kid tested, staff approved!](https://imgur.com/rKFkimo)
 
 Q: What happens if I run them all at once?
