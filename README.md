@@ -25,7 +25,7 @@ Q: How can I change the toggle key?
 - A: I suggest looking into AutoHotkey for that; it gets a little complicated.
 
 Q: I changed the toggle key. Why won't it work?
-- A: Either you didn't save it or don't realize that editing one script doesn't apply it to the rest. You must change the scripts individually.
+- A: Either A, you didn't save the script, B, you chose a *special* key, or C, you only changed *one* script, not any of the others.
 
 Q: Is this only for Parkour?
 - A: No, you can use this wherever you please. **Although, keep in mind that other games have different rules. If you get banned, then that's on you.**
