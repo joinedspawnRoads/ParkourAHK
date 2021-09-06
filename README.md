@@ -15,6 +15,7 @@ After you've downloaded & installed it, extract the [latest release](https://git
 2. After running a script, you can press backslash to toggle it.
 3. To stop running a script, you can right click on the icon in your taskbar (check hidden icons if it isn't there, and if you still can't find it, kill AutoHotkey in Task Manager).
 4. The chat is not immune to the scripts, so just know that you might en up tlking like thi.
+5. Keybinds only work while the script is toggled on.
 
 ### Keybinds
 - \ = Toggle
