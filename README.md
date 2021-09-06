@@ -16,7 +16,7 @@ After you've downloaded & installed it, extract the [latest release](https://git
 3. To stop running a script, you can right click on the icon in your taskbar (check hidden icons if it isn't there, and if you still can't find it, kill AutoHotkey in Task Manager).
 4. The chat is not immune to the scripts, so just know that you might en up tlking like thi.
 
-## Keybinds
+### Keybinds
 - \ = Toggle
 - Alt+\ = Stop
 - Alt+R = Reload
