@@ -18,8 +18,8 @@ After you've downloaded & installed it, extract the [latest release](https://git
 
 ### Keybinds
 - \ = Toggle
-- Alt+\ = Stop
-- Alt+R = Reload
+- Alt + \ = Reload
+- Ctrl + Alt + \ = Stop
 
 ## FAQ
 
