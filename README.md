@@ -3,6 +3,9 @@
 
 Here are some AutoHotkey scripts I made for [Roblox Parkour.](https://www.roblox.com/games/445664957/Parkour) With these you can disable different movement keys to make the game not only harder, but more refreshing and fun to play.
 
+## Disclaimer
+This document describes the **latest version.** Anything concerning older releases probably won't be here.
+
 ## Instructions
 First off, you're gonna need [AutoHotkey](https://www.autohotkey.com) for this to work (I'd suggest downloading the current version).
 
